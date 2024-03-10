@@ -1,0 +1,13 @@
+.clien-card-wrapper {
+  display: flex;
+  width: 367px;
+  height: 421px;
+  padding: 30px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  border: 1px solid var(--Gray-Borders, rgba(47, 43, 67, 0.15));
+}
+
